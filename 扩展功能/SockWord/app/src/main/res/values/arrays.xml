@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="imageArray">
+        <item>@mipmap/bg_one</item>
+        <item>@mipmap/bg_two</item>
+        <item>@mipmap/bg_three</item>
+        <item>@mipmap/bg_four</item>
+        <item>@mipmap/bg_five</item>
+    </string-array>
+</resources>
